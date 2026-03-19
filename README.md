@@ -23,23 +23,53 @@
 
 ---
 
-## whoami
+## 👾 whoami
 
-```bash
-$ cat /etc/vamanparmar/profile.json
+```
+┌──(vaman㉿kali)-[~]
+└─$ whoami
+```
+> **Vaman Parmar** — Red Teamer · Full-Stack Developer · Security Researcher
+
+```
+┌──(vaman㉿kali)-[~]
+└─$ cat about.txt
 ```
 
-```json
-{
-  "name"     : "Vaman Parmar",
-  "role"     : ["Red Teamer", "Full-Stack Developer", "Security Researcher"],
-  "focus"    : ["Vulnerability Assessment", "Phishing & Malware Detection", "OSINT"],
-  "learning" : ["Python", "React", "Spring Boot"],
-  "collab"   : ["Open Source Security Projects", "OSINT Tooling", "CTFs"],
-  "ask_me"   : ["Python", "Flask", "FastAPI", "Cybersecurity"],
-  "os"       : "Kali Linux  /  Ubuntu",
-  "fun_fact" : "When not hacking, watching Jujutsu Kaisen ⚔️"
-}
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║  🎯  Currently    →  Building Vulnerability Assessment       ║
+ ║                      Platform + Phishing Detection App       ║
+ ║                                                              ║
+ ║  📚  Learning     →  Python  ·  React  ·  Spring Boot        ║
+ ║                                                              ║
+ ║  🤝  Open to      →  Open Source Security Projects           ║
+ ║                      OSINT Tooling  ·  CTF Teams             ║
+ ║                                                              ║
+ ║  💬  Ask me about →  Python · Flask · FastAPI · AppSec       ║
+ ║                                                              ║
+ ║  🖥️  Environment  →  Kali Linux · Ubuntu                     ║
+ ║                                                              ║
+ ║  ⚡  Fun fact     →  When not hacking, watching              ║
+ ║                      Jujutsu Kaisen ⚔️                       ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
+
+```
+┌──(vaman㉿kali)-[~]
+└─$ nmap --open -p skills localhost
+```
+
+```
+Starting scan...
+
+PORT       SERVICE        STATE
+22/tcp     red-team       OPEN   ██████████████████░░  85%
+80/tcp     full-stack     OPEN   ███████████████░░░░░  75%
+443/tcp    blue-team      OPEN   ████████████░░░░░░░░  60%
+8080/tcp   osint          OPEN   ███████████░░░░░░░░░  55%
+
+Scan complete. 4 ports open.
 ```
 
 ---

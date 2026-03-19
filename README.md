@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-██║   ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-██║   ██║███████║██╔████╔██║███████║██╔██╗ ██║
-╚██╗ ██╔╝██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
- ╚████╔╝ ██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=99999&color=C084FC&center=true&vCenter=true&width=600&height=90&lines=Vaman+Parmar" alt="Vaman Parmar" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Red+Teamer+%7C+Security+Researcher;Full-Stack+Developer+%7C+Tool+Builder;Breaking+Things+to+Build+Better+Ones;Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
 
@@ -16,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamanparmar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vamanparmar)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vamanparmar8@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=vamanparmar&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/vamanparmar)
 
 </div>
@@ -110,7 +103,7 @@ A web application that detects malicious URLs, dissects malware signatures, and 
 - 🚨 Active phishing threat protection
 - 📊 Threat intelligence dashboard
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar/PhishGuard-Pro)
 
 </td>
 <td width="50%" valign="top">
@@ -128,7 +121,7 @@ A precision reconnaissance tool to detect, fingerprint, and analyze Web Applicat
 - 🗺️ Bypass vector enumeration
 - 📋 Detailed assessment reporting
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar)
+[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar/waf-detector)
 
 </td>
 </tr>
@@ -212,6 +205,16 @@ A precision reconnaissance tool to detect, fingerprint, and analyze Web Applicat
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vamanparmar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -233,5 +236,5 @@ A precision reconnaissance tool to detect, fingerprint, and analyze Web Applicat
 ---
 
 <div align="center">
-<sub>Built with 🖤 by Vaman Parmar &nbsp;·&nbsp; Last updated 2025</sub>
+<sub>Built with 🖤 by Vaman Parmar</sub>
 </div>

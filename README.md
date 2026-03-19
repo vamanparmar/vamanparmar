@@ -232,27 +232,6 @@ A precision reconnaissance tool to detect, fingerprint, and analyze Web Applicat
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-*Open to collaborations on security research, CTFs, and open-source tooling.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamanparmar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vamanparmar)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vamanparmar&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 <div align="center">
 <sub>Built with 🖤 by Vaman Parmar &nbsp;·&nbsp; Last updated 2025</sub>
 </div>

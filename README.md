@@ -205,11 +205,14 @@ A precision reconnaissance tool to detect, fingerprint, and analyze Web Applicat
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vamanparmar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+![Commits](https://img.shields.io/badge/Total%20Commits-21-C084FC?style=for-the-badge&logo=git&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars%20Earned-3-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20Java%20%7C%20Bash-10B981?style=for-the-badge&logo=code&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-Active%20Player-dc2626?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>
 

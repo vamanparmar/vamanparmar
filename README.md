@@ -247,9 +247,9 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-21-C084FC?style=for-the-badge&logo=git&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars%20Earned-3-FFD700?style=for-the-badge&logo=github&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20Java%20%7C%20Bash-10B981?style=for-the-badge&logo=code&logoColor=white)
+![Followers](https://img.shields.io/github/followers/vamanparmar?label=Followers&style=for-the-badge&logo=github&color=C084FC)
+![Stars](https://img.shields.io/github/stars/vamanparmar?label=Total%20Stars&style=for-the-badge&logo=github&color=FFD700)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vamanparmar&query=public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=7C3AED)
 ![CTF](https://img.shields.io/badge/CTF-Active%20Player-dc2626?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>

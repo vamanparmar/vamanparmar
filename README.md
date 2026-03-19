@@ -37,22 +37,24 @@
 ```
 
 ```
- ╔══════════════════════════════════════════════════════════════╗
- ║  🎯  Currently    →  Building Vulnerability Assessment       ║
- ║                      Platform + Phishing Detection App       ║
- ║                                                              ║
- ║  📚  Learning     →  Python  ·  React  ·  Spring Boot        ║
- ║                                                              ║
- ║  🤝  Open to      →  Open Source Security Projects           ║
- ║                      OSINT Tooling  ·  CTF Teams             ║
- ║                                                              ║
- ║  💬  Ask me about →  Python · Flask · FastAPI · AppSec       ║
- ║                                                              ║
- ║  🖥️  Environment  →  Kali Linux · Ubuntu                     ║
- ║                                                              ║
- ║  ⚡  Fun fact     →  When not hacking, watching              ║
- ║                      Jujutsu Kaisen ⚔️                       ║
- ╚══════════════════════════════════════════════════════════════╝
+ ╔════════════════════════════════════════════════════════════╗
+ ║                                                            ║
+ ║   Currently    -->  Building Vulnerability Assessment      ║
+ ║                     Platform + Phishing Detection App      ║
+ ║                                                            ║
+ ║   Learning     -->  Python  |  React  |  Spring Boot       ║
+ ║                                                            ║
+ ║   Open to      -->  Open Source Security Projects          ║
+ ║                     OSINT Tooling  |  CTF Teams            ║
+ ║                                                            ║
+ ║   Ask me       -->  Python  |  Flask  |  FastAPI  |  AppSec║
+ ║                                                            ║
+ ║   Environment  -->  Kali Linux  |  Ubuntu                  ║
+ ║                                                            ║
+ ║   Fun fact     -->  When not hacking, watching             ║
+ ║                     Jujutsu Kaisen                         ║
+ ║                                                            ║
+ ╚════════════════════════════════════════════════════════════╝
 ```
 
 ```

@@ -19,35 +19,19 @@
 ## 👾 whoami
 
 ```
-┌──(vaman㉿kali)-[~]
-└─$ whoami
-```
-> **Vaman Parmar** — Red Teamer · Full-Stack Developer · Security Researcher
+## 🚀 About Me
 
-```
-┌──(vaman㉿kali)-[~]
-└─$ cat about.txt
-```
+<img align="right" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-```
- ╔════════════════════════════════════════════════════════════╗
- ║                                                            ║
- ║   Currently    -->  Building Vulnerability Assessment      ║
- ║                     Platform + Phishing Detection App      ║
- ║                                                            ║
- ║   Learning     -->  Python  |  React  |  Spring Boot       ║
- ║                                                            ║
- ║   Open to      -->  Open Source Security Projects          ║
- ║                     OSINT Tooling  |  CTF Teams            ║
- ║                                                            ║
- ║   Ask me       -->  Python  |  Flask  |  FastAPI  |  AppSec║
- ║                                                            ║
- ║   Environment  -->  Kali Linux  |  Ubuntu                  ║
- ║                                                            ║
- ║   Fun fact     -->  When not hacking, watching             ║
- ║                     Jujutsu Kaisen                         ║
- ║                                                            ║
- ╚════════════════════════════════════════════════════════════╝
+| | |
+|---|---|
+| 🔧 **Building** | Vulnerability Assessment Platform + Phishing Detection App |
+| 🌱 **Learning** | Python · React · Spring Boot |
+| 🤝 **Open to** | Open Source Security · OSINT Tooling · CTF Teams |
+| 💬 **Ask me** | Python · Flask · FastAPI · AppSec |
+| 🖥️ **Env** | Kali Linux · Ubuntu |
+| ⚡ **Fun fact** | When not hacking, watching Jujutsu Kaisen |
+| 📫 **Reach me** | vamanparmar8@gmail.com |
 ```
 
 ```

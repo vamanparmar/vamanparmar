@@ -259,38 +259,7 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 </div>
 
-> ⚙️ **Setup:** Add the workflow below to `.github/workflows/snake.yml` in your profile repo to auto-generate the snake animation daily.
 
-<details>
-<summary>📋 Click to expand snake.yml workflow</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: vamanparmar
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 

@@ -180,7 +180,7 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active%20Hacker-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active%20Hacker-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar8)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Practising-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
 [![CTF](https://img.shields.io/badge/CTF-Active%20Player-dc2626?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
 [![BugBounty](https://img.shields.io/badge/Bug%20Bounty-Hunting-FFD700?style=for-the-badge&logo=hackerone&logoColor=black)](https://github.com/vamanparmar)

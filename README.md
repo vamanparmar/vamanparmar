@@ -76,7 +76,7 @@ Scan complete. 4 ports open.
 | Domain | Stack | Level |
 |:---|:---|:---:|
 | 🔴 **Red Team / Offensive** | Kali Linux · Burp Suite · Metasploit · OSINT | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=180&color=dc2626&suffix=%) |
-| 🔵 **Blue Team / Defensive** | Wireshark · Log Analysis · Threat Intel | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=180&color=3b82f6&suffix=%) |
+| 🔵 **Blue Team / Defensive** | Wireshark · Log Analysis · Threat Intel | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=180&color=3b82f6&suffix=%) |
 | 🟣 **Full-Stack Dev** | Python · FastAPI · React · PostgreSQL | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=180&color=7c3aed&suffix=%) |
 | 🟢 **OSINT** | Recon-ng · Maltego · Custom Tooling | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=180&color=10b981&suffix=%) |
 

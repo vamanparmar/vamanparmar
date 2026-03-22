@@ -180,7 +180,10 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active%20Hacker-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vamanparmar.png)](https://tryhackme.com/p/vamanparmar)
+
+<br/>
+
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Practising-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
 [![CTF](https://img.shields.io/badge/CTF-Active%20Player-dc2626?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
 [![BugBounty](https://img.shields.io/badge/Bug%20Bounty-Hunting-FFD700?style=for-the-badge&logo=hackerone&logoColor=black)](https://github.com/vamanparmar)
@@ -231,7 +234,7 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&cache_seconds=300" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&hide_rank=true&cache_seconds=300" height="160" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanparmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A78BFA&cache_seconds=300" height="160" alt="Top Languages"/>
 

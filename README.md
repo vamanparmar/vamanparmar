@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=99999&color=C084FC&center=true&vCenter=true&width=600&height=90&lines=Vaman+Parmar" alt="Vaman Parmar" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Red+Teamer+%7C+Security+Researcher;Full-Stack+Developer+%7C+Tool+Builder;Breaking+Things+to+Build+Better+Ones;Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=9999999&pause=9999999&color=C084FC&center=true&vCenter=true&width=600&height=80&lines=Vaman+Parmar" alt="Vaman Parmar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Red+Teamer+%7C+Security+Researcher;Full-Stack+Developer+%7C+Tool+Builder;Breaking+Things+to+Build+Better+Ones;Always+Learning%2C+Always+Hacking" alt="Typing roles" />
 
 <br/>
 
@@ -16,41 +20,47 @@
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🚀 About Me
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer gif" />
 
 **Vaman Parmar** — Red Teamer · Full-Stack Developer · Security Researcher
 
 <br/>
 
-🔧 &nbsp;**Currently building** &nbsp;— Vulnerability Assessment Platform + Phishing Detection App
-<br/>
-🌱 &nbsp;**Learning** &nbsp;— Python &nbsp;·&nbsp; React &nbsp;·&nbsp; Spring Boot
-<br/>
-🤝 &nbsp;**Open to collaborate** &nbsp;— Open Source Security · OSINT Tooling · CTF Teams
-<br/>
-💬 &nbsp;**Ask me about** &nbsp;— Python &nbsp;·&nbsp; Flask &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; AppSec
-<br/>
-🖥️ &nbsp;**Environment** &nbsp;— Kali Linux &nbsp;·&nbsp; Ubuntu
-<br/>
-⚡ &nbsp;**Fun fact** &nbsp;— When not hacking, watching **Jujutsu Kaisen**
-<br/>
-📫 &nbsp;**Reach me** &nbsp;— vamanparmar8@gmail.com
+- 🔧 &nbsp;**Currently building** — Vulnerability Assessment Platform · Phishing Detection App
+- 🌱 &nbsp;**Learning** — Python · React · Spring Boot
+- 🤝 &nbsp;**Open to collaborate** — Open Source Security · OSINT Tooling · CTF Teams
+- 💬 &nbsp;**Ask me about** — Python · Flask · FastAPI · AppSec
+- 🖥️ &nbsp;**Environment** — Kali Linux · Ubuntu
+- ⚡ &nbsp;**Fun fact** — When not hacking, watching **Jujutsu Kaisen**
+- 📫 &nbsp;**Reach me** — vamanparmar8@gmail.com
 
 <br clear="right"/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB TROPHIES                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=vamanparmar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/vamanparmar)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=vamanparmar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/vamanparmar)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      SKILL MATRIX                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎯 Skill Matrix
 
@@ -58,14 +68,18 @@
 
 | Domain | Stack | Level |
 |:---|:---|:---:|
-| 🔴 **Red Team / Offensive** | Kali Linux · Burp Suite · Metasploit · OSINT | ![](https://img.shields.io/badge/Level-85%25-dc2626?style=flat-square) |
-| 🔵 **Blue Team / Defensive** | Wireshark · Log Analysis · Threat Intel | ![](https://img.shields.io/badge/Level-60%25-3b82f6?style=flat-square) |
-| 🟣 **Full-Stack Dev** | Python · FastAPI · React · PostgreSQL | ![](https://img.shields.io/badge/Level-75%25-7c3aed?style=flat-square) |
-| 🟢 **OSINT** | Recon-ng · Maltego · Custom Tooling | ![](https://img.shields.io/badge/Level-55%25-10b981?style=flat-square) |
+| 🔴 **Red Team / Offensive** | Kali Linux · Burp Suite · Metasploit · OSINT | ![85%](https://img.shields.io/badge/Level-85%25-dc2626?style=flat-square) |
+| 🔵 **Blue Team / Defensive** | Wireshark · Log Analysis · Threat Intel | ![60%](https://img.shields.io/badge/Level-60%25-3b82f6?style=flat-square) |
+| 🟣 **Full-Stack Dev** | Python · FastAPI · React · PostgreSQL | ![75%](https://img.shields.io/badge/Level-75%25-7c3aed?style=flat-square) |
+| 🟢 **OSINT** | Recon-ng · Maltego · Custom Tooling | ![55%](https://img.shields.io/badge/Level-55%25-10b981?style=flat-square) |
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏴‍☠️ Featured Projects
 
@@ -74,6 +88,7 @@
 <td width="50%" valign="top">
 
 ### 🛡️ PhishGuard Pro
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-dc2626?style=flat-square)
@@ -92,6 +107,7 @@ A web application that detects malicious URLs, dissects malware signatures, and 
 <td width="50%" valign="top">
 
 ### 🔍 WAF-Detector
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Recon](https://img.shields.io/badge/Recon-8B5CF6?style=flat-square)
 ![Offensive](https://img.shields.io/badge/Offensive_Security-DC2626?style=flat-square)
@@ -112,6 +128,7 @@ A precision reconnaissance tool to detect, fingerprint, and analyze Web Applicat
 <td width="50%" valign="top">
 
 ### 🌐 WebSentinel `v3.0.0`
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BugBounty](https://img.shields.io/badge/Bug%20Bounty-FFD700?style=flat-square)
 ![Offensive](https://img.shields.io/badge/Offensive_Security-DC2626?style=flat-square)
@@ -126,12 +143,14 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 - 🔌 WebSocket Detection · Baseline Fingerprinting
 
 [![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar/websentinel)
-![Stars](https://img.shields.io/github/stars/vamanparmar/websentinel?style=flat-square&color=FFD700)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/vamanparmar/websentinel?style=flat-square&color=FFD700&logo=github&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📬 More Coming Soon...
+
 ![Status](https://img.shields.io/badge/Status-In%20Progress-7c3aed?style=flat-square)
 
 > Currently forging new tools in the lab. Follow to stay updated on upcoming security projects and open-source releases.
@@ -150,11 +169,15 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CURRENTLY FORGING                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🚧 Currently Forging
 
 <div align="center">
 
-### 🔐 Vulnerability Assessment Platform &nbsp; `v0.3.1`
+### 🔐 Vulnerability Assessment Platform &nbsp;`v0.3.1`
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -176,6 +199,10 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              CERTIFICATIONS & PLATFORMS                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🎖️ Certifications & Platforms
 
 <div align="center">
@@ -191,6 +218,10 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TECH ARSENAL                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚔️ Tech Arsenal
 
@@ -230,58 +261,109 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&hide_rank=true&cache_seconds=300" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&cache_seconds=300" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanparmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A78BFA&cache_seconds=300" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanparmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A78BFA&cache_seconds=300" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=vamanparmar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=A78BFA" width="55%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=vamanparmar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=A78BFA" width="55%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamanparmar&theme=tokyo-night&bg_color=0D1117&color=C084FC&line=7C3AED&point=ffffff&area=true&hide_border=true" width="92%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamanparmar&theme=tokyo-night&bg_color=0D1117&color=C084FC&line=7C3AED&point=ffffff&area=true&hide_border=true" width="92%" alt="Activity Graph" />
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🐍 Contribution Snake
+
+> ℹ️ The snake animation is auto-generated via [GitHub Actions](https://github.com/vamanparmar/vamanparmar/actions). If it doesn't appear, set up the workflow — instructions below.
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamanparmar/vamanparmar/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamanparmar/vamanparmar/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vamanparmar/vamanparmar/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/vamanparmar/vamanparmar/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
+<details>
+<summary>⚙️ Snake Setup — Click to expand</summary>
 
+1. In your `vamanparmar/vamanparmar` profile repo, create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: vamanparmar
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Run the workflow once manually from the **Actions** tab.
+
+</details>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ACHIEVEMENTS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏅 Achievements
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/vamanparmar?label=Followers&style=for-the-badge&logo=github&color=C084FC)
-![Stars](https://img.shields.io/github/stars/vamanparmar?label=Total%20Stars&style=for-the-badge&logo=github&color=FFD700)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vamanparmar&query=public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=7C3AED)
+![Followers](https://img.shields.io/github/followers/vamanparmar?label=Followers&style=for-the-badge&logo=github&color=C084FC&logoColor=white)
+![Stars](https://img.shields.io/github/stars/vamanparmar?label=Total%20Stars&style=for-the-badge&logo=github&color=FFD700&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvamanparmar&query=public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=7C3AED&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF-Active%20Player-dc2626?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux
+*"The quieter you become, the more you are able to hear."*
 
 <br/>
 

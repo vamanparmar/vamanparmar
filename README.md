@@ -232,13 +232,7 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&hide_rank=true&cache_seconds=300" height="160" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanparmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A78BFA&cache_seconds=300" height="160" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=vamanparmar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=A78BFA" width="55%" alt="GitHub Streak"/>
 

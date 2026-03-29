@@ -270,13 +270,16 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+<!-- GitHub Stats — uses github-stats-alpha (independent, rate-limit free) -->
+<img src="https://github-stats-alpha.vercel.app/api?username=vamanparmar&cc=0D1117&tc=C084FC&ic=7C3AED&bc=0D1117" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanparmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A78BFA&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
+<!-- Top Languages — profile-summary-cards has its own stable API -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vamanparmar&theme=tokyonight" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=vamanparmar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=A78BFA" width="55%" alt="GitHub Streak" />
+<!-- Streak stats — git.io/streak-stats is the stable domain -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vamanparmar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=A78BFA" width="55%" alt="GitHub Streak" />
 
 <br/><br/>
 

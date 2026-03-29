@@ -4,7 +4,8 @@
 <!--                        HEADER                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=9999999&pause=9999999&color=C084FC&center=true&vCenter=true&width=600&height=80&lines=Vaman+Parmar" alt="Vaman Parmar" />
+<!-- Name: using capsule-render (more reliable than typing-svg for static text) -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C084FC&text=Vaman%20Parmar&height=90&fontSize=52&fontAlign=50&fontAlignY=55&desc=&animation=fadeIn" alt="Vaman Parmar" width="600"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Red+Teamer+%7C+Security+Researcher;Full-Stack+Developer+%7C+Tool+Builder;Breaking+Things+to+Build+Better+Ones;Always+Learning%2C+Always+Hacking" alt="Typing roles" />
 
@@ -207,7 +208,7 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vamanparmar.png)](https://tryhackme.com/p/vamanparmar)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-vamanparmar-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
 
 <br/>
 
@@ -269,9 +270,9 @@ Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&cache_seconds=300" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=vamanparmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED&text_color=A78BFA&ring_color=7C3AED&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanparmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A78BFA&cache_seconds=300" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamanparmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=A78BFA&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
 
 <br/><br/>
 

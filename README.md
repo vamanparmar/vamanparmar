@@ -88,87 +88,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ PhishGuard Pro
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Security](https://img.shields.io/badge/Security-dc2626?style=flat-square)
 
-A web application that detects malicious URLs, dissects malware signatures, and shields users from live phishing operations in real time.
-
-**Capabilities**
-- 🔗 Real-time malicious URL detection
-- 🧬 Malware signature analysis engine
-- 🚨 Active phishing threat protection
-- 📊 Threat intelligence dashboard
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar/PhishGuard-Pro)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 WAF-Detector
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Recon](https://img.shields.io/badge/Recon-8B5CF6?style=flat-square)
-![Offensive](https://img.shields.io/badge/Offensive_Security-DC2626?style=flat-square)
-
-A precision reconnaissance tool to detect, fingerprint, and analyze Web Application Firewalls during authorized security engagements.
-
-**Capabilities**
-- 🎯 WAF vendor fingerprinting
-- 📡 Passive & active detection modes
-- 🗺️ Bypass vector enumeration
-- 📋 Detailed assessment reporting
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar/waf-detector)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 WebSentinel `v3.0.0`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BugBounty](https://img.shields.io/badge/Bug%20Bounty-FFD700?style=flat-square)
-![Offensive](https://img.shields.io/badge/Offensive_Security-DC2626?style=flat-square)
-
-Advanced web vulnerability scanner for Bug Bounty & Penetration Testing. 23 modules, single file, one dependency.
-
-**Modules include**
-- 💉 XSS · SQLi · CMDi · SSRF · CORS · JWT
-- 🔄 HTTP Request Smuggling · Prototype Pollution
-- 🌍 Subdomain Takeover · GraphQL Introspection
-- 🛡️ WAF Detection & Bypass · 2FA/OTP Bypass
-- 🔌 WebSocket Detection · Baseline Fingerprinting
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar/websentinel)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/vamanparmar/websentinel?style=flat-square&color=FFD700&logo=github&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📬 More Coming Soon...
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-7c3aed?style=flat-square)
-
-> Currently forging new tools in the lab. Follow to stay updated on upcoming security projects and open-source releases.
-
-**On the radar**
-- 🔐 Vulnerability Assessment Platform
-- 📡 Phishing & Malware Detection App
-- 🗂️ Personal OSINT command dashboard
-- 🧪 CTF writeups & exploit scripts
-
-[![Follow](https://img.shields.io/badge/Follow_on_GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamanparmar)
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY FORGING                         -->

@@ -11,8 +11,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaman-parmar-ab3b84312/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/vaman_parmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamanparmar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vamanparmar)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vamanparmar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vamanparmar8@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=vamanparmar&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/vamanparmar)
@@ -71,6 +71,7 @@
 |:---|:---|:---:|
 | 🔴 **Red Team / Offensive** | Kali Linux · Burp Suite · Metasploit · OSINT | ![85%](https://img.shields.io/badge/Level-85%25-dc2626?style=flat-square) |
 | 🔵 **Blue Team / Defensive** | Wireshark · Log Analysis · Threat Intel | ![60%](https://img.shields.io/badge/Level-60%25-3b82f6?style=flat-square) |
+| 🟣 **Full-Stack Dev** | Python · FastAPI · React · PostgreSQL | ![75%](https://img.shields.io/badge/Level-75%25-7c3aed?style=flat-square) |
 | 🟢 **OSINT** | Recon-ng · Maltego · Custom Tooling | ![55%](https://img.shields.io/badge/Level-55%25-10b981?style=flat-square) |
 
 </div>

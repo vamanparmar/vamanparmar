@@ -7,7 +7,7 @@
 <!-- Name: using capsule-render (more reliable than typing-svg for static text) -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C084FC&text=Vaman%20Parmar&height=90&fontSize=52&fontAlign=50&fontAlignY=55&desc=&animation=fadeIn" alt="Vaman Parmar" width="600"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Red+Teamer+%7C+Security+Researcher;Full-Stack+Developer+%7C+Tool+Builder;Breaking+Things+to+Build+Better+Ones;Always+Learning%2C+Always+Hacking" alt="Typing roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Red+Teamer+%7C+Security+Researcher;Breaking+Things+to+Build+Better+Ones;Always+Learning%2C+Always+Improving" alt="Typing roles" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <img align="right" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer gif" />
 
-**Vaman Parmar** — Red Teamer · Full-Stack Developer · Security Researcher
+**Vaman Parmar** — Red Teamer · Security Researcher
 
 <br/>
 

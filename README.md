@@ -71,7 +71,6 @@
 |:---|:---|:---:|
 | 🔴 **Red Team / Offensive** | Kali Linux · Burp Suite · Metasploit · OSINT | ![85%](https://img.shields.io/badge/Level-85%25-dc2626?style=flat-square) |
 | 🔵 **Blue Team / Defensive** | Wireshark · Log Analysis · Threat Intel | ![60%](https://img.shields.io/badge/Level-60%25-3b82f6?style=flat-square) |
-| 🟣 **Full-Stack Dev** | Python · FastAPI · React · PostgreSQL | ![75%](https://img.shields.io/badge/Level-75%25-7c3aed?style=flat-square) |
 | 🟢 **OSINT** | Recon-ng · Maltego · Custom Tooling | ![55%](https://img.shields.io/badge/Level-55%25-10b981?style=flat-square) |
 
 </div>
